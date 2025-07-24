@@ -1,0 +1,85 @@
+{
+  "name": "Boise State University",
+  "players": [
+    "skies",
+    "Daimyo",
+    "Rereiana",
+    "Prestige",
+    "Skelesis",
+    "Master"
+  ],
+  "mapStats": [
+    {
+      "map": "Bind (23)",
+      "winRate": "57%",
+      "wins": "13",
+      "losses": "10"
+    },
+    {
+      "map": "Haven (31)",
+      "winRate": "32%",
+      "wins": "10",
+      "losses": "21"
+    },
+    {
+      "map": "Split (5)",
+      "winRate": "40%",
+      "wins": "2",
+      "losses": "3"
+    },
+    {
+      "map": "Ascent (22)",
+      "winRate": "14%",
+      "wins": "3",
+      "losses": "19"
+    },
+    {
+      "map": "Icebox (11)",
+      "winRate": "36%",
+      "wins": "4",
+      "losses": "7"
+    },
+    {
+      "map": "Breeze (10)",
+      "winRate": "0%",
+      "wins": "0",
+      "losses": "10"
+    },
+    {
+      "map": "Fracture (3)",
+      "winRate": "67%",
+      "wins": "2",
+      "losses": "1"
+    },
+    {
+      "map": "Pearl (5)",
+      "winRate": "40%",
+      "wins": "2",
+      "losses": "3"
+    },
+    {
+      "map": "Lotus (24)",
+      "winRate": "33%",
+      "wins": "8",
+      "losses": "16"
+    },
+    {
+      "map": "Sunset (18)",
+      "winRate": "44%",
+      "wins": "8",
+      "losses": "10"
+    },
+    {
+      "map": "Abyss (3)",
+      "winRate": "33%",
+      "wins": "1",
+      "losses": "2"
+    },
+    {
+      "map": "Corrode (0)",
+      "winRate": "-",
+      "wins": "0",
+      "losses": "0"
+    }
+  ]
+}
